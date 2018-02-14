@@ -1,0 +1,37 @@
+/* .row * {
+    border-style: dotted;
+    border-color: red;
+    border-width: 1px;
+
+}*/
+
+
+h1 {
+    color: #beb9ff;
+}
+
+.opinion-text {
+    margin: 10px 20px;
+}
+
+p.opinion-text {
+
+    color: fuchsia;
+}
+
+div.opinion-text {
+
+    color: hotpink;
+}
+
+p.opinion-text {
+    color: springgreen;
+}
+
+p.opinion-text,
+div.opinion-text {
+    font-size: xx-large;
+}
+
+
+
